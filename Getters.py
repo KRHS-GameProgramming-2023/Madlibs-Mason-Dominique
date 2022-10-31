@@ -57,6 +57,8 @@ def getSport (prompt, debug = False) :
             goodInput = False 
             print  ("sorry, I don't know that one.")
     return word
+    
+
         
 def isSwear    (word,debug = False):  
     if debug: print ( "isSwear function")  
