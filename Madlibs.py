@@ -1,8 +1,8 @@
 from Screens import  *
 from Getters import  * 
 from Story1 import   * 
-
-
+from Story2 import   *
+from Story3 import   * 
 def Madlibs (debug = False) : 
     if debug: print ("welcome to debug")
 
